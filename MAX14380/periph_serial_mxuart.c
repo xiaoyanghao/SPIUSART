@@ -22,7 +22,7 @@
   * @attention  1)Since receive triggers can only be multiples of 8 bytes, 
                 polling receive is used
                2) SPI CLOCK MAX 26MHZ
-               3) rend 128 byte time < 1ms
+               3) read 128 byte time < 1ms
   *
   ******************************************************************************
   */
